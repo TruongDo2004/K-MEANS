@@ -42,7 +42,7 @@ Dự án được thực hiện theo các bước chính sau đây:
 
 ### Kết quả chạy mô hình:
 - **Kết quả phân cụm**: Mô hình K-Means đã chia tập dữ liệu thành `k` cụm khách hàng khác nhau, mỗi cụm đại diện cho một phân khúc với các đặc điểm hành vi mua sắm riêng biệt.
-- **Silhouette Score**: Mô hình đạt được điểm silhouette , cho thấy mức độ tách biệt tốt giữa các cụm, đảm bảo rằng các khách hàng trong cùng một cụm có hành vi tương đồng.
+- **Silhouette Score**: Mô hình đạt được điểm silhouette là 0.9996447686344725, cho thấy mức độ tách biệt tốt giữa các cụm, đảm bảo rằng các khách hàng trong cùng một cụm có hành vi tương đồng.
 - **Phân tích kết quả**: 
   - Một số cụm thể hiện rõ sự khác biệt về số lượng sản phẩm mua và giá đơn vị. Ví dụ: một cụm bao gồm các khách hàng mua số lượng lớn sản phẩm với đơn giá thấp, thường là các doanh nghiệp nhỏ hoặc đại lý.
   - Cụm khác bao gồm các khách hàng có giá trị đơn hàng cao nhưng số lượng sản phẩm mua ít hơn, thường là những khách hàng cá nhân hoặc doanh nghiệp với nhu cầu đặc thù.
