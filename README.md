@@ -7,7 +7,7 @@
   Liên hệ: [dotruonganh2004@gmail.com]
 - **[Nguyễn Thị Lan Anh]**  
   Liên hệ: [lan352639@gmail.com]
-  - **[Phạm Trọng Toàn]**  
+- **[Phạm Trọng Toàn]**  
   Liên hệ: [Phamtrongtoank4@gmail.com]
 
 ### Giới thiệu bài toán:
